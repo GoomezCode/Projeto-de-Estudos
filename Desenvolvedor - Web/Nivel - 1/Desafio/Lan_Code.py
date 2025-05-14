@@ -44,4 +44,3 @@ def Atleta():
         print(f"{nomeAtleta} Você vai poder Competir nas olímpiadas")
     else:
         print(f"{nomeAtleta} Vocẽ não tem o resquisitos para isso")
-
