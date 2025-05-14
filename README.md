@@ -24,8 +24,8 @@ Escolha a trilha que mais combina com seu perfil e interesses:
 
 | Trilha | Link |
 |-------|------|
-| 🧱 [PIRÂMIDE – Desenvolvedor Web Fullstack](./README.md) |
-| 📈 [PIRÂMIDE – Engenheiro de Dados](./README_Engenharia_de_Dados.md) |
+| 🧱 [PIRÂMIDE – Desenvolvedor Web Fullstack](./Desenvolvedor%20-%20Web/README.md) |
+| 📈 [PIRÂMIDE – Engenheiro de Dados](./Engenharia%20%20-%20de%20-%20Dados/README.md) |
 
 ---
 
