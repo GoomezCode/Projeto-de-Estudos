@@ -27,11 +27,14 @@ import random
 
 def desafio02():
     numAleatorio = random.randint(1, 10)
+    tentativas = 0
     while True:
         repostaPessoa = int(input("Fala um numero de (1 a 10) : "))
+        tentativas += 1
 
         if repostaPessoa == numAleatorio:
             print("Acertou o numero")
+            print(f"Você teve {tentativas} para acertar")
             break
         elif repostaPessoa < numAleatorio:
             print(f"O numero {repostaPessoa} e menor que o numero aleatorio")
